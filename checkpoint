@@ -1,0 +1,4 @@
+model_checkpoint_path: "D:\\Udacity-SDC\\Term1\\P003-Traffic Sign Classifier\\CarND-Traffic-Sign-Classifier-Project\\lenet"
+all_model_checkpoint_paths: "/lenet"
+all_model_checkpoint_paths: "\\lenet"
+all_model_checkpoint_paths: "D:\\Udacity-SDC\\Term1\\P003-Traffic Sign Classifier\\CarND-Traffic-Sign-Classifier-Project\\lenet"
